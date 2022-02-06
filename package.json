@@ -1,6 +1,6 @@
 {
   "name": "merkle-whitelist",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A lightweight package for getting a merkle root hash from a list of ethereum addresses.",
   "main": "index.js",
   "scripts": {
