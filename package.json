@@ -11,6 +11,7 @@
     "NFT",
     "Whitelist"
   ],
+  "git_repository": "https://github.com/The-Defi-Network/merkle-whitelist.git",
   "author": "Dropspace",
   "license": "MIT",
   "dependencies": {
