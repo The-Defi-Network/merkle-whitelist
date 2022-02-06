@@ -1,0 +1,2 @@
+# Introduction
+This is a lightweight package to easily obtain merkle tree structures and strings from a given list of ethereum addresses. This is best suited to be used for whitelisting multiple addresses without having an exhorbitant gas fee. Majority of this code has beeen referenced from the [medium article](https://medium.com/@ItsCuzzo/using-merkle-trees-for-nft-whitelists-523b58ada3f9).
